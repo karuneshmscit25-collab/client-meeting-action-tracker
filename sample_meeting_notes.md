@@ -1,0 +1,8 @@
+- We agreed to launch the pilot with the existing onboarding flow.
+- Maya will prepare the customer email by 2026-11-03.
+- Alex to review the dashboard copy next week.
+- The data export is blocked because the vendor API is unstable.
+- Need to confirm who owns analytics tracking?
+- Finance may not approve the extra tooling budget.
+- Priya will share the revised wireframes.
+- Should we move the beta review to Friday?
